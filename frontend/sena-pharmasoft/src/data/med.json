@@ -1,0 +1,84 @@
+{
+  "medicamentos": [
+    {
+      "id": 1,
+      "nombre": "Paracetamol",
+      "principio_activo": "Acetaminofén",
+      "presentacion": "Tabletas",
+      "dosis": "500 mg",
+      "via_administracion": "Oral",
+      "uso": "Dolor leve a moderado y fiebre",
+      "requiere_receta": false
+    },
+    {
+      "id": 2,
+      "nombre": "Ibuprofeno",
+      "principio_activo": "Ibuprofeno",
+      "presentacion": "Tabletas",
+      "dosis": "400 mg",
+      "via_administracion": "Oral",
+      "uso": "Dolor, inflamación y fiebre",
+      "requiere_receta": false
+    },
+    {
+      "id": 3,
+      "nombre": "Amoxicilina",
+      "principio_activo": "Amoxicilina",
+      "presentacion": "Cápsulas",
+      "dosis": "500 mg",
+      "via_administracion": "Oral",
+      "uso": "Infecciones bacterianas",
+      "requiere_receta": true
+    },
+    {
+      "id": 4,
+      "nombre": "Loratadina",
+      "principio_activo": "Loratadina",
+      "presentacion": "Tabletas",
+      "dosis": "10 mg",
+      "via_administracion": "Oral",
+      "uso": "Alergias",
+      "requiere_receta": false
+    },
+    {
+      "id": 5,
+      "nombre": "Omeprazol",
+      "principio_activo": "Omeprazol",
+      "presentacion": "Cápsulas",
+      "dosis": "20 mg",
+      "via_administracion": "Oral",
+      "uso": "Protección gástrica y reflujo",
+      "requiere_receta": false
+    },
+    {
+      "id": 6,
+      "nombre": "Metformina",
+      "principio_activo": "Metformina",
+      "presentacion": "Tabletas",
+      "dosis": "850 mg",
+      "via_administracion": "Oral",
+      "uso": "Diabetes tipo 2",
+      "requiere_receta": true
+    },
+    {
+      "id": 7,
+      "nombre": "Salbutamol",
+      "principio_activo": "Salbutamol",
+      "presentacion": "Inhalador",
+      "dosis": "100 mcg",
+      "via_administracion": "Inhalatoria",
+      "uso": "Asma y broncoespasmo",
+      "requiere_receta": true
+    },
+    {
+      "id": 8,
+      "nombre": "Diclofenaco",
+      "principio_activo": "Diclofenaco sódico",
+      "presentacion": "Tabletas",
+      "dosis": "50 mg",
+      "via_administracion": "Oral",
+      "uso": "Dolor e inflamación",
+      "requiere_receta": false
+    }
+  ]
+}
